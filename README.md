@@ -194,7 +194,7 @@ Enjoy creating stunning AI-generated visuals with **ImaginAItion**! 🌟
 
 ## Results
 
-#### 1. Eiffel tower in fire
+#### 1. Eiffel tower on fire
 
 ![Eiffel_tower_on_fire](https://github.com/user-attachments/assets/78ca5ac5-ee86-43cc-a423-f55aabb7f06f)
 
